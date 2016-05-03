@@ -1,0 +1,28 @@
+name: Oh•My Bamboo
+favicon: null
+layout_spectrum: 0.3671221595723182
+typography_spectrum: 0.2752163370605558
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.09258298226632178
+  lightness: 0.20428943913429976
+  saturation: 0.27804373344406486
+  rhythmicContrast: 0.9442342140246183
+purpose: []
